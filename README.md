@@ -1,4 +1,4 @@
 miataru-sailfishos
 ==================
 
-MIataru SailfishOS Client
+Miataru SailfishOS Client
