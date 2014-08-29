@@ -1,0 +1,32 @@
+# Rename this file as MIataru.changes to include changelog
+# entries in your RPM file.
+#
+# Add new changelog entries following the format below.
+# Add newest entries to the top of the list.
+# Separate entries from eachother with a blank line.
+
+# * date Author's Name <author's email> version-release
+# - Summary of changes
+
+* Thu Aug 7 2014 Andreas Heil <info@aheil.de> 0.2-16
+- fixed <a href="https://github.com/aheil/miataru-sailfishos/issues/1">#1</a> - added settings for data retention time and using it for update location requests
+
+* Sat Jul 26 2014 Andreas Heil <info@aheil.de> 0.2-15
+- added the capability to choose colors for devices
+- enhanced map display with colors for devices
+
+* Fri Jul 25 2014 Andreas Heil <info@aheil.de> 0.2-8
+- fixed display text when 'this Jolla' was added as 'this Device'
+- Added a page for debug information
+- Fixed restart issue after Miataru was closed
+- Jolla submitts and receives its coordiantes to and from the Miataru server
+- Correct location of the Jolla on the map
+- New icon designed by Cyril Lintanff
+
+* Mon Jul 21 2014 Andreas Heil <info@aheil.de> 0.1-3
+- Changed the Jolla device ID to a unique 8-4-4-4-4-4-4-8 digit ID. This change requires the ID to be resubmitted to your peers as well as beeing removed and added in the devices.
+- Database versions introduced
+- Start page added
+
+* Sun Jul 20 2014 Andreas Heil <info@aheil.de> 0.1-2
+- Initial Release

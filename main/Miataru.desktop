@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=Miataru
+Exec=Miataru
+Name=Miataru
+# translation example:
+# your app name in German locale (de)
+Name[de]=Miataru
+
