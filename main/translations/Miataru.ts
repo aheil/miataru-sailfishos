@@ -27,7 +27,7 @@
 <context>
     <name>CoverPage</name>
     <message>
-        <source>My Cover</source>
+        <source>Miataru</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

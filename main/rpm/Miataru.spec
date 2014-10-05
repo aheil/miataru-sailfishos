@@ -14,7 +14,7 @@ Name:       Miataru
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 Summary:    Miataru for SailfishOS
 Version:    0.2
-Release:    17
+Release:    18
 Group:      Qt/Qt
 License:    EPL 1.0
 URL:        http://www.aheil.de/miataru/
