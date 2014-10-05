@@ -9,7 +9,6 @@ import Sailfish.Silica 1.0
 
 Page {
 
-
     PageHeader {
         title: qsTr("Device QR Code")
     }
@@ -49,13 +48,11 @@ Page {
         wrapMode: Text.WordWrap
         horizontalAlignment: Text.AlignHCenter
 
-     anchors {
-         horizontalCenter: parent.horizontalCenter
-         top: qrString.bottom
-         topMargin: 40
+        anchors {
+            horizontalCenter: parent.horizontalCenter
+            top: qrString.bottom
+            topMargin: 40
 
-     }
+        }
     }
-
 }
-

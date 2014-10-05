@@ -16,7 +16,7 @@ Summary:    Miataru for SailfishOS
 Version:    0.2
 Release:    17
 Group:      Qt/Qt
-License:    LICENSE
+License:    EPL 1.0
 URL:        http://www.aheil.de/miataru/
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  Miataru.yaml
@@ -29,7 +29,6 @@ BuildRequires:  desktop-file-utils
 
 %description
 Miataru for SailfisOS
-
 
 %prep
 %setup -q -n %{name}-%{version}
