@@ -8,6 +8,9 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Sun Oct 5 2014 Andreas Heil <info@aheil.de> 0.2-18
+- fixed <a href="https://github.com/aheil/miataru-sailfishos/issues/4">#4</a> - changed cover page text
+
 * Thu Aug 7 2014 Andreas Heil <info@aheil.de> 0.2-16
 - fixed <a href="https://github.com/aheil/miataru-sailfishos/issues/1">#1</a> - added settings for data retention time and using it for update location requests
 
